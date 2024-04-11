@@ -1,1 +1,1 @@
-JAVA LeetCode SOlved problems 
+JAVA LeetCode Solved problems 
